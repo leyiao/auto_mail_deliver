@@ -18,6 +18,9 @@
   
 5. 管理员可控制是否允许启用超速模式和数据统计功能
 
+## 部分运行结果展示
+![alt text](https://github.com/leyiao/auto_mail_delivery/blob/master/result_print/1.png)
+![alt text](https://github.com/leyiao/auto_mail_delivery/blob/master/result_print/2.png)
 
 ## 主要设计思想
 1. 将“超速派送”和“冷却”都视为机器人的状态，与“返回”,”等待”和”派送”三种状态作为Enumeration object “RobotState”一起包含在“Robot” 类中
